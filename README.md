@@ -69,5 +69,5 @@ Please cite the repository in publications as:
 ---
 
 ## 🧰 Acknowledgements
-Developed with support from the **KAIST Entrepreneurship Research Initiative**.  
+Developed with support from the **KAIST BTM (K-School)**.  
 Inspired by ODD+D, ABM Canvas, and generative-AI-enabled modeling workflows.

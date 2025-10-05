@@ -59,12 +59,18 @@ The project aims to:
 
 ---
 
-## 📄 License
-MIT License — free for academic, educational, and commercial use.  
+## 🧩 Authors & Contributors
+This project is co-developed by:
+
+- **Jaehu Shim**, KAIST School of Business and Technology Management (K-School)  
+- **Jiyoung Kimjeon**, Jönköping International Business School  
+
 Please cite the repository in publications as:
 
-> Shim, J. (2025). *ABM Design-to-Code Template (v0.1-alpha).* GitHub.  
-> [https://github.com/YourUserName/ABM-Design-to-Code-Template](https://github.com/YourUserName/ABM-Design-to-Code-Template)
+> [https://github.com/jshim-abm-for-ent/ABM-Design-to-Code-Template](https://github.com/YourUserName/ABM-Design-to-Code-Template)
+
+## 📄 License
+MIT License — free for academic, educational, and commercial use.  
 
 ---
 

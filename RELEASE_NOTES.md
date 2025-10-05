@@ -40,13 +40,12 @@ It enables researchers, students, and educators to:
 |------|--------------|
 | **BehaviorSpace XML examples** | Automated multi-run experiment templates |
 | **ODD / ODD+D integration** | Add a mapping table aligning Canvas sections with ODD protocol items |
-| **Python / Notebook pipeline** | Automated “Canvas → LLM → Code” workflow |
 | **Additional examples** | Policy diffusion, innovation dynamics, social contagion models |
 | **Documentation site** | GitHub Pages or Notion-based guidebook |
 
 ## 🧠 Citation (optional)
 > Shim, J. (2025). *ABM Design-to-Code Template (v0.1-alpha).*  
-> GitHub repository: https://github.com/YourUserName/ABM-Design-to-Code-Template
+> GitHub repository: https://github.com/jshim-abm-for-ent/ABM-Design-to-Code-Template
 
 ## 🪪 License
 MIT License — free for academic, research, and commercial use with attribution.  

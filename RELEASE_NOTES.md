@@ -1,7 +1,28 @@
-# 🧩 ABM Design-to-Code Template — v0.1-alpha  
-### Initial Public Release (Work-in-Progress)
+# 📦 Release Notes – ABM Design-to-Code Template
 
-## 🌍 Overview
+---
+
+## [v0.1.1] – 2025-10-05
+### Changed
+- Refactored repository structure:
+  - Introduced modular NetLogo system (`Example_Shell_Model.nlogo` + `Example_Output_Code.nls`)
+  - Added `/docs/` directory for documentation and checklists
+  - Revised main `README.md` for full project overview and version index
+- Improved clarity in `Authors & Contributors` and `Acknowledgements` sections
+
+### Added
+- Included new `ABMS_Application_Checklist_EN.md` (in `/docs/`)
+- Added explanation for future version plan: *Auto-generation workflow with prompt templates*
+
+### Removed
+- Deprecated single-file model `Example_Output_Code.nlogo` removed
+
+---
+
+## [v0.1-alpha] – 2025-10-05
+### Initial Public Release
+
+### 🌍 Overview
 This is the **first public release** of the *ABM Design-to-Code Template* —  
 a lightweight framework that bridges **natural-language model design** and **NetLogo implementation**.
 
@@ -12,7 +33,7 @@ It enables researchers, students, and educators to:
 
 > ⚠️ *This version is an early alpha (v0.1-alpha) and will continue to evolve.*
 
-## 📦 Included Files
+### 📦 Included Files
 | File | Description |
 |------|--------------|
 | **README.md** | Overview, quick start, and design-to-code mapping |
@@ -21,7 +42,7 @@ It enables researchers, students, and educators to:
 | **Example_Canvas_Filled_EN.md** | Entrepreneurship network model example (filled canvas) |
 | **Example_Output_Code.nlogo** | NetLogo skeleton generated from the example canvas |
 
-## 🧩 Key Features
+### 🧩 Key Features
 - **Structured ABM Canvas (①–⑩)** – covers Research Focus → Agents → Environment → Rules → Interaction → Dynamics → Metrics → Validation → Scenarios → Interpretation.  
 - **Direct mapping to code:**  
   - ② → `breed`, `own`, initialization (`setup`)  
@@ -35,31 +56,13 @@ It enables researchers, students, and educators to:
 - **Plain-language compatible:** design in Markdown or text, then feed directly to ChatGPT / LLM.  
 - **Educational ready:** useful for teaching ABM logic and simulation literacy without heavy coding barriers.  
 
-## 🚧 Work-in-Progress (Planned for v0.2–v1.0)
+### 🚧 Work-in-Progress (Planned for v0.2–v1.0)
 | Goal | Description |
 |------|--------------|
 | **BehaviorSpace XML examples** | Automated multi-run experiment templates |
 | **ODD / ODD+D integration** | Add a mapping table aligning Canvas sections with ODD protocol items |
 | **Additional examples** | Policy diffusion, innovation dynamics, social contagion models |
 | **Documentation site** | GitHub Pages or Notion-based guidebook |
-
-## 🧠 Citation (optional)
-> Shim, J. (2025). *ABM Design-to-Code Template (v0.1-alpha).*  
-> GitHub repository: https://github.com/jshim-abm-for-ent/ABM-Design-to-Code-Template
-
-## 🪪 License
-MIT License — free for academic, research, and commercial use with attribution.  
-See the [LICENSE](LICENSE) file for full terms.
-
-## 🔖 Tag & Release Info
-- **Tag:** `v0.1-alpha`  
-- **Release Title:** *Initial alpha release — Natural Language → NetLogo ABM workflow*  
-- **Branch:** `main`  
-
-**Commit Message Example:**
-```
-feat: initial release of ABM Design-to-Code Template (v0.1-alpha)
-```
 
 ## 🤝 Contributions
 Feedback and pull requests are warmly welcome!  

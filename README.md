@@ -75,5 +75,4 @@ MIT License — free for academic, educational, and commercial use.
 ---
 
 ## 🧰 Acknowledgements
-Developed with support from the **KAIST BTM (K-School)**.  
-Inspired by ODD+D, ABM Canvas, and generative-AI-enabled modeling workflows.
+Inspired by ABM Canvas and ODD+D.

@@ -4,17 +4,17 @@ Fill in plain English. The goal is to convert this canvas into NetLogo code.
 
 —
 
-① Research Question & Purpose  
+## 1. Research Question & Purpose  
 [Your input]
 
-② Agents & Variables  
+## 2. Agents & Variables  
 2‑1. Agent Types  
 [Your input]
 
 2‑2. Attributes / State Variables (per type)  
 [Your input]
 
-③ Behavioral Rules (individual decision logic)  
+## 3. Behavioral Rules (individual decision logic)  
 3‑1. Decision / Action per tick  
 [Your input] 
 
@@ -24,7 +24,7 @@ Fill in plain English. The goal is to convert this canvas into NetLogo code.
 3‑3. Internal Updates (state changes on success/failure)  
 [Your input]
 
-④ Interaction Mechanisms (between agents)  
+## 4. Interaction Mechanisms (between agents)  
 4‑1. Target Selection  
 [Your input]
 
@@ -34,14 +34,14 @@ Fill in plain English. The goal is to convert this canvas into NetLogo code.
 4‑3. Interaction Effects (on both sides/system)  
 [Your input]
 
-⑤ Environment & Structure  
+## 5. Environment & Structure  
 5‑1. Space / Network / Context  
 [Your input]
 
 5‑2. Initial Structure / Conditions  
 [Your input]  
  
-⑥ Initialization & Temporal Process  
+## 6. Initialization & Temporal Process  
 6‑1. Initialization (counts, distributions, placement)  
 [Your input]
 
@@ -57,10 +57,10 @@ Fill in plain English. The goal is to convert this canvas into NetLogo code.
 6‑5. Stop Condition  
 [Your input]
 
-⑦ Parameters  
+## 7. Parameters  
 [Your input]
 
-⑧ Metrics & Evaluation  
+## 8. Metrics & Evaluation  
 8‑1. Key Outcome Variables  
 [Your input]
 
@@ -70,10 +70,10 @@ Fill in plain English. The goal is to convert this canvas into NetLogo code.
 8‑3. Output Mode (plots, CSV, final snapshot)  
 [Your input]
 
-⑨ Scenarios & Experiments  
+## 9. Scenarios & Experiments  
 [Your input]
 
-⑩ Interpretation & Insights  
+## 10. Interpretation & Insights  
 [Your input]
 
 Instruction for the LLM when generating code:  

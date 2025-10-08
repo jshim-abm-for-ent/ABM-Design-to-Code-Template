@@ -21,7 +21,7 @@ Fill in plain English. The goal is to convert this canvas into NetLogo code.
 3‑2. Conditions & Probabilities (explicit formulas if any)  
 [Your input]
 
-3‑3. Internal Updates (state changes on success/failure)
+3‑3. Internal Updates (state changes on success/failure)  
 [Your input]
 
 ④ Interaction Mechanisms (between agents)  

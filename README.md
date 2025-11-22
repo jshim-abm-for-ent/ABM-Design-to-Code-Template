@@ -17,5 +17,6 @@ Canvas 2.0 is composed of **10 well-defined sections**, enabling transparent mod
 - **Experiment design**, including manual scenarios and BehaviorSpace specification
 
 The Canvas 2.0 file is available at:
-
 ➡ **[`/templates/ABM_Canvas_2.0.md`](/templates/ABM_Canvas_2.0.md)**
+
+Older templates and previous-version files are stored in the `/legacy` directory for reference.

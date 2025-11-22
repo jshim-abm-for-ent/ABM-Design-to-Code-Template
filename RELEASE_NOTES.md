@@ -1,4 +1,4 @@
-# 📦 Release Notes – ABM Design-to-Code Template
+# 📦 Release Notes – ABM Canvas (Design-to-Code Template)
 
 ## [2025-11] Repository Update: ABM Canvas 2.0 and Structure Cleanup
 
